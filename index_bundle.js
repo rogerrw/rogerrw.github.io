@@ -22775,7 +22775,7 @@ module.exports = __webpack_require__.p + "57f61b30f266148531b0abfb35c18e81.png";
 /* 197 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "4f901855be045c3cf09a52d0962b02ec.pdf";
+module.exports = __webpack_require__.p + "8af78d41adf66c956147d339bc68bb3b.pdf";
 
 /***/ }),
 /* 198 */
@@ -22845,7 +22845,7 @@ var Intro = function (_React$Component) {
               { id: 'contact' },
               _react2.default.createElement(
                 'a',
-                { href: 'mailto:roger.wang.r@gmail.com' },
+                { href: 'mailto:roger.rongji.wang@gmail.com' },
                 text.CONTACT
               )
             )
@@ -23570,7 +23570,7 @@ var Footer = function (_React$Component) {
           { id: 'contact-button' },
           _react2.default.createElement(
             'a',
-            { href: 'mailto:roger.wang.r@gmail.com' },
+            { href: 'mailto:roger.rongji.wang@gmail.com' },
             'Get in contact'
           )
         ),
